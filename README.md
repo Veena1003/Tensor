@@ -1,5 +1,12 @@
 # Customer Service Platform
 
+##Video Demo
+
+
+
+
+https://github.com/Veena1003/Tensor/assets/107175584/33fa1249-bbc6-4cf0-9ea5-68f6a26c8b82
+
 This project is a customer service platform built with Node.js for the backend and React for the frontend. It allows users to log in using Google OAuth, submit customer service requests, and interact with customer service through Intercom.com.
 
 ## Backend Microservice (Node.js)
